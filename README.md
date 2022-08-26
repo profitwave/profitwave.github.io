@@ -1,6 +1,6 @@
 # CryptoPivots android app - Privacy Policy
 # Terms of Use
-This android app does not collect any kind of user personal data or location. 
+This android app does not need any specific permission and neither it collects any kind of user personal data or personal location. 
 
 # Acceptance
 This app respects the privacy of its users (You) and has developed this Privacy Policy and Terms of Use to demonstrate its commitment to protecting your privacy. This Privacy Policy describes the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. By using our website or this application, you are accepting the practices described in this Privacy Policy.
