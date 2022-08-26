@@ -1,4 +1,4 @@
-## Privacy Policy
+# CryptoPivots android app - Privacy Policy
 # Terms of Use
 This android app does not collect any kind of user personal data or location. 
 
