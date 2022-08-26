@@ -23,5 +23,6 @@ Thanks for trying, Happy Trading !! [Play store status in review](https://play.g
 
 # Download link [crypto-pivots.apk](https://github.com/profitwave/profitwave.github.io/blob/main/apk/crypto-pivots.apk?raw=true)
 
-![info](apk/info-view.png)</br>
+![info](apk/info-view.png)    
+
 ![home](apk/home-page.png)![home-2](apk/device-2.png)
