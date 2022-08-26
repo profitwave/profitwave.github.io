@@ -8,4 +8,5 @@ If you have questions or concerns about these privacy policies and Terms of use,
 
 # Download apk ( android installable )
 Android installable apk can be downloaded here. When installed outside play store you may get security warnings, please ignore that install the app.
-From your android device, Goto : [https://github.com/profitwave/profitwave.github.io/blob/main/apk/crypto-pivots.apk](https://github.com/profitwave/profitwave.github.io/blob/main/apk/crypto-pivots.apk) and click on `download` button. Then install the apk. 
+
+Make sure you are looking at this page right now from your android device. If so click this link [crypto-pivots.apk](https://github.com/profitwave/profitwave.github.io/blob/main/apk/crypto-pivots.apk?raw=true) and as stated above you will see `File might be harmful` warning as you are going to download outside play store.. Click Download anyway to proceed and the phone will automatically install the app for you.
