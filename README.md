@@ -1,16 +1,5 @@
----
-title: CryptoPivots android app - Privacy Policy
-layout: default
----
-
-# {{ page.title }}
-
-# Terms of Use
-This android app does not need any specific permission and neither it collects any kind of user personal data or personal location. 
-
-# Acceptance
-This app respects the privacy of its users (You) and has developed this Privacy Policy and Terms of Use to demonstrate its commitment to protecting your privacy. This Privacy Policy describes the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. By using our website or this application, you are accepting the practices described in this Privacy Policy.
-If you have questions or concerns about these privacy policies and Terms of use, please send us an email at <moneywaveguide@gmail.com>
+# Why should you use this app ?
+Currently https://pivotscreener.com/ is web based, which means you always have to type the url in web or have a bookmark in your browser to visit this site. Also by default it goes to btc home page then you select the crypto link to see the page of interest.. That you avoid by using this as a mobile app, its quick and handy just one click and you see what you want, then on the link click it opens the bainance site right in your mobile too.. I have suggested the developer of the site to update the link so that it can open the binance app, hope one day they do it. untill then I found it's easy to have as an app rather than a site so for the love of the community and giving back I built this. Feel free to write back to moneywaveguide@gmail.com or in discord if you have any concern .
 
 # Download apk ( android installable )
 Android installable apk can be downloaded here. When installed outside play store you may get security warnings, please ignore that to install the app.
@@ -22,3 +11,5 @@ Steps to download : File might be harmful -> Download anyway -> Open -> Do you w
 Thanks for trying, Happy Trading !!
 
 ![info](apk/info-view.png) ![home](apk/home-page.png)
+
+
