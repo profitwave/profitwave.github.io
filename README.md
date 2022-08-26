@@ -13,5 +13,5 @@ Make sure you are looking at this page right now from your android device. If so
 
 Steps to download : File might be harmful -> Download anyway -> Open -> Do you want to install the app -> Install -> Install anyway -> Send app for Scanning -> Don't Send -> App installed
 
-Thanks for trying & Happy Trading !!
+Thanks for trying, Happy Trading !!
 
