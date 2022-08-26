@@ -19,9 +19,9 @@ Make sure you are looking at this page right now from your android device. If so
 
 Steps to download : File might be harmful -> Download anyway -> Open -> Do you want to install the app -> Install -> Install anyway -> Send app for Scanning -> Don't Send -> App installed
 
-Thanks for trying, Happy Trading !! [Play store status in review](https://play.google.com/store/apps/details?id=com.pivot.screener)
+Thanks for trying, Happy Trading !! [Play store status in review, Check this link later if you want to install later from playstore](https://play.google.com/store/apps/details?id=com.pivot.screener)
 
-# Download link [crypto-pivots.apk](https://github.com/profitwave/profitwave.github.io/blob/main/apk/crypto-pivots.apk?raw=true)
+# Download now from here [crypto-pivots.apk](https://github.com/profitwave/profitwave.github.io/blob/main/apk/crypto-pivots.apk?raw=true)
 
 ![info](apk/info-view.png)    
 
