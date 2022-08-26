@@ -15,3 +15,4 @@ Steps to download : File might be harmful -> Download anyway -> Open -> Do you w
 
 Thanks for trying, Happy Trading !!
 
+![info](apk/info-view.png) ![home](apk/home-page.png)
