@@ -16,7 +16,7 @@ If you have questions or concerns about these privacy policies and Terms of use,
 
 Currently [https://pivotscreener.com/](https://pivotscreener.com/) is webbased which means you always have to type the url in web or have a bookmark in your browser to visit this site. Also by default it goes to btc home page then you select the crypto link to see the page of interest.. You can avoid those steps by using this as a mobile app, it's quick and handy just one click and you see what you want, then on the link click it opens the binance site right in your mobile too.. I have asked the developer of the site to update the link so that it can open the binance app, hope one day they do it. untill then I found its easy to have as an app rather than a site so for the love of the community and giving back I built this. Feel free to write back if you have any concern .
 
-# Available at playsrore !
+# Available at playstore !
 [Check this if you want to install from playstore](https://play.google.com/store/apps/details?id=com.pivot.screener)
 
 # Download instruction ( android installable )
